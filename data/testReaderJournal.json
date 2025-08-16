@@ -1,0 +1,16 @@
+{"entries": [
+    {
+        "correctCount": 3,
+        "foreignWord": "bonjour",
+        "englishTranslation": "hello",
+        "incorrectCount": 1,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "chien",
+        "englishTranslation": "dog",
+        "incorrectCount": 2,
+        "lastReviewed": null
+    }
+]}

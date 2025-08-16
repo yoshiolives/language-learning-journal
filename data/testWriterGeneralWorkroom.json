@@ -1,0 +1,16 @@
+{"entries": [
+    {
+        "correctCount": 2,
+        "foreignWord": "bonjour",
+        "englishTranslation": "hello",
+        "incorrectCount": 1,
+        "lastReviewed": "2025-08-05T21:30:37.801467200"
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "chien",
+        "englishTranslation": "dog",
+        "incorrectCount": 2,
+        "lastReviewed": "2025-08-05T21:30:37.801467200"
+    }
+]}

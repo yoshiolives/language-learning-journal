@@ -1,0 +1,1017 @@
+{"entries": [
+    {
+        "correctCount": 0,
+        "foreignWord": "wo3",
+        "englishTranslation": "me",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "wo3men",
+        "englishTranslation": "we",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "ni3",
+        "englishTranslation": "you",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "ta1",
+        "englishTranslation": "him",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "ta1",
+        "englishTranslation": "she",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "zhe4",
+        "englishTranslation": "this",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "na4",
+        "englishTranslation": "that",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "na3",
+        "englishTranslation": "which",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "na3r",
+        "englishTranslation": "where",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "shei2",
+        "englishTranslation": "who",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "shen2me",
+        "englishTranslation": "what",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "duo1shao3",
+        "englishTranslation": "how many",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "ji3",
+        "englishTranslation": "how many",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "zen3me",
+        "englishTranslation": "how",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "zen3meyang4",
+        "englishTranslation": "how about",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "yi1",
+        "englishTranslation": "one",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "er4",
+        "englishTranslation": "two",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "san1",
+        "englishTranslation": "three",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "si4",
+        "englishTranslation": "four",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "wu3",
+        "englishTranslation": "five",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "liu4",
+        "englishTranslation": "six",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "qi1",
+        "englishTranslation": "seven",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "ba1",
+        "englishTranslation": "eight",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "jiu3",
+        "englishTranslation": "nine",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "shi2",
+        "englishTranslation": "ten",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xie1",
+        "englishTranslation": "some",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "kuai4",
+        "englishTranslation": "piece",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "bu4",
+        "englishTranslation": "no",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "mei2",
+        "englishTranslation": "no",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "hen3",
+        "englishTranslation": "quite",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "tai4",
+        "englishTranslation": "too",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "dou1",
+        "englishTranslation": "all",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "yi1dian3r",
+        "englishTranslation": "a little bit",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "he2",
+        "englishTranslation": "and",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "zai4",
+        "englishTranslation": "at",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "de",
+        "englishTranslation": "of",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "wei4",
+        "englishTranslation": "hello",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "jia1",
+        "englishTranslation": "home",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xue2xiao4",
+        "englishTranslation": "school",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "fan4dian4",
+        "englishTranslation": "restaurant",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "shang1dian4",
+        "englishTranslation": "store",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "yi1yuan4",
+        "englishTranslation": "hospital",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "Zhong1guo4",
+        "englishTranslation": "China",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "Bei3jing1",
+        "englishTranslation": "Beijing",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "shang4",
+        "englishTranslation": "up",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xia4",
+        "englishTranslation": "down",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "qian2mian4",
+        "englishTranslation": "front",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "hou4mian4",
+        "englishTranslation": "behind",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "li3mian4",
+        "englishTranslation": "inside",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "jin1tian1",
+        "englishTranslation": "today",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "ming2tian1",
+        "englishTranslation": "tomorrow",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "zuo2tian1",
+        "englishTranslation": "yesterday",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "shang4wu3",
+        "englishTranslation": "morning",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "zhong1wu3",
+        "englishTranslation": "noon",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xia4wu3",
+        "englishTranslation": "afternoon",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "nian2",
+        "englishTranslation": "year",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "yue4",
+        "englishTranslation": "month",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "hao4",
+        "englishTranslation": "number",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xing1qi1",
+        "englishTranslation": "week",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "dian3",
+        "englishTranslation": "o\u2019clock",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "fen1zhong1",
+        "englishTranslation": "minute",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xian4zai4",
+        "englishTranslation": "now",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "shi2hou",
+        "englishTranslation": "time",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "ba4ba",
+        "englishTranslation": "father",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "ma1ma",
+        "englishTranslation": "mother",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "er2zi",
+        "englishTranslation": "son",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "n?3er2",
+        "englishTranslation": "daughter",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "lao3shi1",
+        "englishTranslation": "teacher",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xue2sheng1",
+        "englishTranslation": "student",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "tong2xue2",
+        "englishTranslation": "classmate",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "peng2you3",
+        "englishTranslation": "friend",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "yi1sheng1",
+        "englishTranslation": "doctor",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xian1sheng",
+        "englishTranslation": "sir",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xiao3jie3",
+        "englishTranslation": "Miss",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "yi1fu",
+        "englishTranslation": "cloth",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "shui3",
+        "englishTranslation": "water",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "cai4",
+        "englishTranslation": "dish",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "mi3fan4",
+        "englishTranslation": "rice",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "shui3guo3",
+        "englishTranslation": "fruit",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "ping2guo3",
+        "englishTranslation": "apple",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "cha2",
+        "englishTranslation": "tea",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "bei1zi",
+        "englishTranslation": "cup",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "qian2",
+        "englishTranslation": "money",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "fei1ji1",
+        "englishTranslation": "airplane",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "chu1zu1che1",
+        "englishTranslation": "taxi",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "dian4shi4",
+        "englishTranslation": "television",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "dian4nao3",
+        "englishTranslation": "computer",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "dian4ying3",
+        "englishTranslation": "movie",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "tian1qi4",
+        "englishTranslation": "weather",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "mao1",
+        "englishTranslation": "cat",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "gou3",
+        "englishTranslation": "dog",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "dong1xi",
+        "englishTranslation": "thing",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "ren2",
+        "englishTranslation": "person",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "ming2zi",
+        "englishTranslation": "name",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "shu1",
+        "englishTranslation": "book",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "han4yu3",
+        "englishTranslation": "mandarin",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "zi4",
+        "englishTranslation": "character",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "zhuo1zi",
+        "englishTranslation": "desk",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "yi3zi",
+        "englishTranslation": "chair",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "nan",
+        "englishTranslation": "nan",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xie4xie",
+        "englishTranslation": "thank",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "bu2ke4qi4",
+        "englishTranslation": "you are welcome",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "zai4jian4",
+        "englishTranslation": "good-bye",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "qing3",
+        "englishTranslation": "please",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "dui4bu4qi3",
+        "englishTranslation": "sorry",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "mei2guan1xi4",
+        "englishTranslation": "It doesn\u2019t matter",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "shi4",
+        "englishTranslation": "be",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "you3",
+        "englishTranslation": "have",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "kan4",
+        "englishTranslation": "look",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "ting1",
+        "englishTranslation": "listen",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "shuo1",
+        "englishTranslation": "speak",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "du2",
+        "englishTranslation": "read",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xie3",
+        "englishTranslation": "write",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "kan4jian4",
+        "englishTranslation": "see",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "jiao4",
+        "englishTranslation": "call",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "lai2",
+        "englishTranslation": "come",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "hui2",
+        "englishTranslation": "return",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "qu4",
+        "englishTranslation": "go",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "chi1",
+        "englishTranslation": "eat",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "he1",
+        "englishTranslation": "drink",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "shui4jiao4",
+        "englishTranslation": "sleep",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "da3dian4hua4",
+        "englishTranslation": "make phone call",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "zuo4",
+        "englishTranslation": "do",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "mai3",
+        "englishTranslation": "buy",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "kai1",
+        "englishTranslation": "open",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "zuo4",
+        "englishTranslation": "sit",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "zhu4",
+        "englishTranslation": "live",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xue2xi2",
+        "englishTranslation": "study",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "gong1zuo4",
+        "englishTranslation": "work",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xia4yu3",
+        "englishTranslation": "rain",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "ai4",
+        "englishTranslation": "love",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xi3huan1",
+        "englishTranslation": "love",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xiang3",
+        "englishTranslation": "want",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "ren4shi",
+        "englishTranslation": "know",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "hui4",
+        "englishTranslation": "can",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "neng2",
+        "englishTranslation": "can",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "hao3",
+        "englishTranslation": "good",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "da4",
+        "englishTranslation": "big",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "xiao3",
+        "englishTranslation": "small",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "duo1",
+        "englishTranslation": "many",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "shao3",
+        "englishTranslation": "few, little",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "leng3",
+        "englishTranslation": "cold",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "re4",
+        "englishTranslation": "hot",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "gao1xing4",
+        "englishTranslation": "happy",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    },
+    {
+        "correctCount": 0,
+        "foreignWord": "piao4liang",
+        "englishTranslation": "beautiful",
+        "incorrectCount": 0,
+        "lastReviewed": null
+    }
+]}
